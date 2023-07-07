@@ -1,0 +1,27 @@
+{
+  "name": "modulo7-d4",
+  "version": "1.0.0",
+  "description": "ejemplo web service usando express, pg y handlebars",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariel-Plaza/modulo7-d4.git"
+  },
+  "keywords": [
+    "express",
+    "handlebars",
+    "postgresql",
+    "pg",
+    "cors"
+  ],
+  "author": "Ariel Plaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ariel-Plaza/modulo7-d4/issues"
+  },
+  "homepage": "https://github.com/Ariel-Plaza/modulo7-d4#readme"
+}
